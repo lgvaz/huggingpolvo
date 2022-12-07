@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "huggingpolvo"
+  site-url: "https://lgvaz.github.io/huggingpolvo"
+  description: "Polvo for huggingface"
+  repo-branch: master
+  repo-url: "https://github.com/lgvaz/huggingpolvo"
